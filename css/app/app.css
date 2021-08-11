@@ -16430,6 +16430,7 @@ ul.palette li a {
 }
 .text-white {
   color: #ffffff;
+  background-color: black;
 }
 .text-black {
   color: #000000;
